@@ -5,9 +5,7 @@
 
 body {
     background: repeating-linear-gradient(
-        45deg,
-        #FF5A5F,
-        #FF5A5F 150px,
+        65deg,
         #011936 150px,
         #011936 300px
     );
